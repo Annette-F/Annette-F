@@ -1,4 +1,5 @@
-## Hi! I'm Anna. 
+## Hi everyone! 🖐 
+I'm Anna. I'm certified QA Engineer with 3+ hands-on experience. At the moment I'm doing a course on test automation in Python. Here you can see my repositories.
 
 <!--
 **Annette-F/Annette-F** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
