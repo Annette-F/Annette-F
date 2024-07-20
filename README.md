@@ -1,4 +1,4 @@
-## Hi! I'm Anna. But my closed friends called me Annette 🙂
+## Hi! I'm Anna. 
 
 <!--
 **Annette-F/Annette-F** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
