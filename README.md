@@ -1,4 +1,4 @@
-<h1 align="center">Hi, there! I'm Anna </h1> 
+<h1 align="center">Hi, there!👋  I'm Anna </h1> 
 <h3 align="center">I'm ISTQB certified QA Engineer with 3+ hands-on experience</h3>
 At the moment I'm doing a course on test automation in Python. Here you can observe the process of my development in automation 🙂
 
