@@ -1,5 +1,6 @@
-## Hi everyone! 🖐 
-My name is Anna. I'm ISTQB certified QA Engineer with 3+ hands-on experience. At the moment I'm doing a course on test automation in Python. Here you can observe the process of my development in automation 🙂
+<h1 align="center">Hi there! I'm Anna </h1> 
+<h3 align="center">I'm ISTQB certified QA Engineer with 3+ hands-on experience</h3>
+At the moment I'm doing a course on test automation in Python. Here you can observe the process of my development in automation 🙂
 
 <!--
 **Annette-F/Annette-F** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
