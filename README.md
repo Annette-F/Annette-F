@@ -1,6 +1,13 @@
-<h1 align="center">Welcome and hi there!👋  I'm Anna </h1> 
-<h3 align="center">I'm ISTQB certified QA Engineer with 3+ hands-on experience</h3>
-At the moment I'm doing a course on test automation in Python. Here you can observe the process of my development in automation 🙂
+<h1 align="center">𝕎𝕖𝕝𝕔𝕠𝕞𝕖 𝕒𝕟𝕕𝕙𝕚 𝕥𝕙𝕖𝕣𝕖! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>  I'm Anna </h1> 
+<h3 align="center">I'm QA Engineer with 3+ hands-on experience</h3>
+
+- I'm currently working as a QA Engineer at SimbirSoft
+- During this time I have different projects, such as: mobile, web
+- I have ISTQB certificate foundation level
+- At the moment I'm doing a course on test automation in Python on [qa.guru](https://qa.guru/). Here you can observe the process of my development in automation 🙂
+
+
+
 
 <!--
 **Annette-F/Annette-F** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
