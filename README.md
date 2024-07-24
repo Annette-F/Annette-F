@@ -8,6 +8,15 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Annette-F&show_icons=true&theme=merko)
+
+### Languages:
+
+<p align="left>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" heigth="40"/>
+</p>
+
+
+
 <!--
 **Annette-F/Annette-F** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
