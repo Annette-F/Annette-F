@@ -7,7 +7,7 @@
 - At the moment I'm doing a course on test automation in Python on [qa.guru](https://qa.guru/). Here you can observe the process of my development in automation 🙂
 
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Annette-F)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Annette-F/Annette-F** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
