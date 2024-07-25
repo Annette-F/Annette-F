@@ -9,24 +9,47 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Annette-F&show_icons=true&theme=merko)
 
-## Languages and Framework
+## You can find me on 
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/Annette-F/Annette-F/main/icons/python.svg" width="40" heigth="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" heigth="40"/>          
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" width="40" heigth="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg" width="40" heigth="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" width="40" heigth="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="40" heigth="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" width="40" heigth="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/confluence/confluence-original.svg" width="40" heigth="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" heigth="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="40" heigth="40"/>                 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" heigth="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="40" heigth="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" width="40" heigth="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kibana/kibana-original.svg" width="40" heigth="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" width="40" heigth="40"/>
+<a href="https://t.me/Annette_f" target="blank"><img align="center" src="https://raw.githubusercontent.com/Annette-F/Annette-F/main/icons/Telegram.svg" alt="Annette_f" height="50" width="50" /></a>
+<a href="fedorova.annette@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/Annette-F/Annette-F/main/icons/gmail.svg" alt="Annette_f" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/annette-fedorova/" target="blank"><img align="center" src="https://raw.githubusercontent.com/Annette-F/Annette-F/main/icons/linkedin.svg" alt="Annette_f" height="50" width="50" /></a>
+</p>
+
+## Languages and Framework
+
+#### Languages
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/Annette-F/Annette-F/main/icons/python.svg" width="50" heigth="50"/>
+</p>
+
+#### Operating systems
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/Annette-F/Annette-F/main/icons/windows10.svg" width="50" heigth="50"/>
+<img src="https://raw.githubusercontent.com/Annette-F/Annette-F/main/icons/linux.svg" width="50" heigth="50"/>
+<img src="https://raw.githubusercontent.com/Annette-F/Annette-F/main/icons/mac-os.svg" width="50" heigth="50"/>
+</p>
+
+#### Test management systems
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/Annette-F/Annette-F/main/icons/jira.svg" width="50" heigth="50"/>
+<img src="https://raw.githubusercontent.com/Annette-F/Annette-F/main/icons/confluence.svg" width="50" heigth="50"/>
+<img src="https://raw.githubusercontent.com/Annette-F/Annette-F/main/icons/YouTrack.svg" width="50" heigth="50"/>
+<img src="https://raw.githubusercontent.com/Annette-F/Annette-F/main/icons/Testrail.svg" width="50" heigth="50"/>
+</p>
+
+#### Database Management System
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/Annette-F/Annette-F/main/icons/dbeaver.svg" width="50" heigth="50"/>
+<img src="https://raw.githubusercontent.com/Annette-F/Annette-F/main/icons/microsoftsqlserver.svg" width="50" heigth="50"/>
+<img src="https://raw.githubusercontent.com/Annette-F/Annette-F/main/icons/mongodb.svg" width="50" heigth="50"/>
+<img src="https://raw.githubusercontent.com/Annette-F/Annette-F/main/icons/mysql.svg" width="50" heigth="50"/>
+<img src="https://raw.githubusercontent.com/Annette-F/Annette-F/main/icons/postgresql.svg" width="50" heigth="50"/>
 </p>
           
 
