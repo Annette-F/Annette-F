@@ -1,7 +1,7 @@
 <h1 align="center">Welcome and hi there! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>  I'm Anna </h1> 
 <h3 align="center">I'm QA Engineer with 3+ hands-on experience</h3>
 
-- I'm currently working as a QA Engineer at SimbirSoft
+- I'm currently working as a QA Engineer at [SimbirSoft](https://www.simbirsoft.com/)
 - During this time I have different projects, such as: mobile, web
 - I have ISTQB certificate foundation level
 - At the moment I'm doing a course on test automation in Python on [qa.guru](https://qa.guru/). Here you can observe the process of my development in automation 🙂
