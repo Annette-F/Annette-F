@@ -13,7 +13,7 @@
 
 <p align="left">
 <a href="https://t.me/Annette_f" target="blank"><img align="center" src="https://raw.githubusercontent.com/Annette-F/Annette-F/main/icons/Telegram.svg" alt="Annette_f" height="50" width="50" /></a>
-<a href="fedorova.annette@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/Annette-F/Annette-F/main/icons/gmail.svg" alt="Annette_f" height="50" width="50" /></a>
+<a href="mailto:fedorova.annette@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/Annette-F/Annette-F/main/icons/gmail.svg" alt="Annette_f" height="50" width="50" /></a>
 <a href="https://www.linkedin.com/in/annette-fedorova/" target="blank"><img align="center" src="https://raw.githubusercontent.com/Annette-F/Annette-F/main/icons/linkedin.svg" alt="Annette_f" height="50" width="50" /></a>
 </p>
 
