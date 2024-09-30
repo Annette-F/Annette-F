@@ -57,8 +57,6 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Annette-F&theme=merko)
 
 
-![](https://github-readme-stats.vercel.app/api?username=Annette-F&show_icons=true&theme=merko)
-
 
 <!--
 **Annette-F/Annette-F** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
