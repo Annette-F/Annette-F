@@ -28,9 +28,14 @@
 
 ## Technology and stack:
 
-| Python | Pytest | PyCharm | Selene | Selenoid |  | Hibernate | Spring |
+| Python | Pytest | PyCharm | Selene | Selenoid | GitHub | GitLab | Jenkins |
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
-| <img src="https://raw.githubusercontent.com/Annette-F/Annette-F/refs/heads/main/icons/python.svg" width="40" height="40"> | <img src="https://raw.githubusercontent.com/Annette-F/Annette-F/refs/heads/main/icons/pytest.svg" width="40" height="40"> | <img src="https://raw.githubusercontent.com/Annette-F/Annette-F/refs/heads/main/icons/pycharm.svg" width="40" height="40"> | <img src="https://github.com/Annette-F/Annette-F/blob/main/icons/selene.png" height="40" width="40"> | <img src="https://github.com/Annette-F/Annette-F/blob/main/icons/Selenoid.png" height="40" width="40"> | <img src="https://fs.getcourse.ru/fileservice/file/download/a/159627/sc/164/h/7d90ad874f0bef32137070f887b7e7c9.svg" width="50" height="50"> | <img src="https://hibernate.org/images/hibernate-logo.svg" width="85" height="85"> | <img src="https://fs.getcourse.ru/fileservice/file/download/a/159627/sc/217/h/1d42c2e1ad9b2100f363d0167a9a4cfd.svg" width="30" height="30"> |
+| <img src="https://raw.githubusercontent.com/Annette-F/Annette-F/refs/heads/main/icons/python.svg" width="40" height="40"> | <img src="https://raw.githubusercontent.com/Annette-F/Annette-F/refs/heads/main/icons/pytest.svg" width="40" height="40"> | <img src="https://raw.githubusercontent.com/Annette-F/Annette-F/refs/heads/main/icons/pycharm.svg" width="40" height="40"> | <img src="https://github.com/Annette-F/Annette-F/blob/main/icons/selene.png" height="40" width="40"> | <img src="https://github.com/Annette-F/Annette-F/blob/main/icons/Selenoid.png" height="40" width="40"> | <img src="https://raw.githubusercontent.com/Annette-F/Annette-F/refs/heads/main/icons/github.svg" width="40" height="40"> | <img src="https://raw.githubusercontent.com/Annette-F/Annette-F/refs/heads/main/icons/gitlab.svg" width="40" height="40"> | <img src="https://raw.githubusercontent.com/Annette-F/Annette-F/refs/heads/main/icons/jenkins.svg" width="40" height="40"> |
+
+| Docker | Grafana | Kibana | Postman | Swagger | DBeaver | PostgreSQL | MSSQLS |
+|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
+| <img src="https://raw.githubusercontent.com/Annette-F/Annette-F/refs/heads/main/icons/docker.svg" width="40" height="40"> | <img src="https://raw.githubusercontent.com/Annette-F/Annette-F/refs/heads/main/icons/grafana.svg" width="40" height="40"> | <img src="https://raw.githubusercontent.com/Annette-F/Annette-F/refs/heads/main/icons/kibana.svg" width="40" height="40"> | <img src="https://raw.githubusercontent.com/Annette-F/Annette-F/refs/heads/main/icons/postman.svg" height="40" width="40"> | <img src="https://raw.githubusercontent.com/Annette-F/Annette-F/refs/heads/main/icons/swagger.svg" height="40" width="40"> | <img src="https://raw.githubusercontent.com/Annette-F/Annette-F/refs/heads/main/icons/dbeaver.svg" width="40" height="40"> | <img src="https://raw.githubusercontent.com/Annette-F/Annette-F/refs/heads/main/icons/postgresql.svg" width="40" height="40"> | <img src="https://raw.githubusercontent.com/Annette-F/Annette-F/refs/heads/main/icons/microsoftsqlserver.svg" width="40" height="40"> |
+
 
 #### Languages
 
