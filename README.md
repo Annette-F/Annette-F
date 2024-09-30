@@ -49,6 +49,7 @@
 
 ## Statistics
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Annette-F&theme=merko)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Annette-Fo&theme=merko)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Annette-F&theme=merko)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Annette-F&theme=merko)
