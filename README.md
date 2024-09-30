@@ -4,7 +4,7 @@
 - I'm currently working as a QA Engineer at [SimbirSoft](https://www.simbirsoft.com/)
 - During this time I have different projects, such as: mobile, web
 - I have ISTQB certificate foundation level
-- At the moment I'm doing a course on test automation in Python on [qa.guru](https://qa.guru/). Here you can observe the process of my development in automation 🙂
+- At the moment I'm studying on test automation in Python. Here you can observe the process of my development in automation 🙂
 
 
 ## Diploma projects at [QA.GURU](https://qa.guru/)
