@@ -7,6 +7,19 @@
 - At the moment I'm doing a course on test automation in Python on [qa.guru](https://qa.guru/). Here you can observe the process of my development in automation 🙂
 
 
+## Diploma projects at [QA GURU](https://qa.guru/)
+<p align="left">
+📃 &nbsp; <a href = "https://drive.google.com/file/d/14KtJrymCEdnWrc_lEDs_kE6OcRDrqHBj/view?usp=sharing"> Click to view certificate </a> 
+ </p>
+ 
+ 
+ 
+  |      Project name               |                   GitHub links                                   
+  |-------------------------------- |-------------------------------------------------------|
+  |         UI / API tests          ||  
+  |       Mobile tests              ||  
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Annette-F&show_icons=true&theme=merko)
 
 ## You can find me on 
