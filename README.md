@@ -25,7 +25,7 @@
 <a href="https://www.linkedin.com/in/annette-fedorova/" target="blank"><img align="center" src="https://raw.githubusercontent.com/Annette-F/Annette-F/main/icons/linkedin.svg" alt="Annette_f" height="50" width="50" /></a>
 </p>
 
-## Technology and stack:
+## Technology and stack
 
 | Python | Pytest | PyCharm | Selene | Selenoid |
 |:----:|:----:|:----:|:----:|:----:|
@@ -47,8 +47,10 @@
 |:----:|:----:|:----:|:----:|:----:|:----:|
 | <img src="https://github.com/Annette-F/Annette-F/blob/main/icons/AllureReport.png" width="40" height="40"> | <img src="https://github.com/Annette-F/Annette-F/blob/main/icons/AllureTestOps.png" width="40" height="40"> | <img src="https://raw.githubusercontent.com/Annette-F/Annette-F/refs/heads/main/icons/jira.svg" width="40" height="40"> | <img src="https://raw.githubusercontent.com/Annette-F/Annette-F/refs/heads/main/icons/confluence.svg" height="40" width="40"> | <img src="https://raw.githubusercontent.com/Annette-F/Annette-F/refs/heads/main/icons/Testrail.svg" height="40" width="40"> | <img src="https://raw.githubusercontent.com/Annette-F/Annette-F/refs/heads/main/icons/YouTrack.svg" width="40" height="40"> |
 
+## Statistics
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Annette-F&show_icons=true&theme=merko)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Annette-F&theme=merko)
 
 
 <!--
