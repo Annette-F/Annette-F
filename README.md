@@ -41,7 +41,7 @@
 | <img src="https://raw.githubusercontent.com/Annette-F/Annette-F/refs/heads/main/icons/mysql.svg" width="40" height="40"> | <img src="https://raw.githubusercontent.com/Annette-F/Annette-F/refs/heads/main/icons/mongodb.svg" width="40" height="40"> | <img src="https://raw.githubusercontent.com/Annette-F/Annette-F/refs/heads/main/icons/browserstack.svg" width="40" height="40"> | <img src="https://raw.githubusercontent.com/Annette-F/Annette-F/refs/heads/main/icons/android-studio.svg" height="40" width="40"> | <img src="https://github.com/Annette-F/Annette-F/blob/main/icons/appium.png" height="40" width="40"> |
 
 | Allure Report | Allure TestOps | Jira | Confluence | TestRail | YouTrack |
-|:----:|:----:|:----:|:----:|:----:|
+|:----:|:----:|:----:|:----:|:----:|:----:|
 | <img src="https://github.com/Annette-F/Annette-F/blob/main/icons/AllureReport.png" width="40" height="40"> | <img src="https://github.com/Annette-F/Annette-F/blob/main/icons/AllureTestOps.png" width="40" height="40"> | <img src="https://raw.githubusercontent.com/Annette-F/Annette-F/refs/heads/main/icons/jira.svg" width="40" height="40"> | <img src="https://raw.githubusercontent.com/Annette-F/Annette-F/refs/heads/main/icons/confluence.svg" height="40" width="40"> | <img src="https://raw.githubusercontent.com/Annette-F/Annette-F/refs/heads/main/icons/Testrail.svg" height="40" width="40"> | <img src="https://raw.githubusercontent.com/Annette-F/Annette-F/refs/heads/main/icons/YouTrack.svg" width="40" height="40"> |
 
 
