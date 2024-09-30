@@ -28,13 +28,13 @@
 
 ## Technology and stack:
 
-| Python | Pytest | PyCharm | Selene | Selenoid | GitHub | GitLab | Jenkins |
-|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
-| <img src="https://raw.githubusercontent.com/Annette-F/Annette-F/refs/heads/main/icons/python.svg" width="40" height="40"> | <img src="https://raw.githubusercontent.com/Annette-F/Annette-F/refs/heads/main/icons/pytest.svg" width="50" height="50"> | <img src="https://raw.githubusercontent.com/Annette-F/Annette-F/refs/heads/main/icons/pycharm.svg" width="40" height="40"> | <img src="https://github.com/Annette-F/Annette-F/blob/main/icons/selene.png" height="50" width="50"> | <img src="https://github.com/Annette-F/Annette-F/blob/main/icons/Selenoid.png" height="40" width="40"> | <img src="https://raw.githubusercontent.com/Annette-F/Annette-F/refs/heads/main/icons/github.svg" width="40" height="40"> | <img src="https://raw.githubusercontent.com/Annette-F/Annette-F/refs/heads/main/icons/gitlab.svg" width="40" height="40"> | <img src="https://raw.githubusercontent.com/Annette-F/Annette-F/refs/heads/main/icons/jenkins.svg" width="40" height="40"> |
+| Python | Pytest | PyCharm | Selene | Selenoid |
+|:----:|:----:|:----:|:----:|:----:|
+| <img src="https://raw.githubusercontent.com/Annette-F/Annette-F/refs/heads/main/icons/python.svg" width="40" height="40"> | <img src="https://raw.githubusercontent.com/Annette-F/Annette-F/refs/heads/main/icons/pytest.svg" width="50" height="50"> | <img src="https://raw.githubusercontent.com/Annette-F/Annette-F/refs/heads/main/icons/pycharm.svg" width="40" height="40"> | <img src="https://github.com/Annette-F/Annette-F/blob/main/icons/selene.png" height="50" width="50"> | <img src="https://github.com/Annette-F/Annette-F/blob/main/icons/Selenoid.png" height="40" width="40"> |
 
-| Docker | Grafana | Kibana | Postman | Swagger | DBeaver | PostgreSQL | MSSQL |
-|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
-| <img src="https://raw.githubusercontent.com/Annette-F/Annette-F/refs/heads/main/icons/docker.svg" width="50" height="50"> | <img src="https://raw.githubusercontent.com/Annette-F/Annette-F/refs/heads/main/icons/grafana.svg" width="40" height="40"> | <img src="https://raw.githubusercontent.com/Annette-F/Annette-F/refs/heads/main/icons/kibana.svg" width="40" height="40"> | <img src="https://raw.githubusercontent.com/Annette-F/Annette-F/refs/heads/main/icons/postman.svg" height="40" width="40"> | <img src="https://raw.githubusercontent.com/Annette-F/Annette-F/refs/heads/main/icons/swagger.svg" height="40" width="40"> | <img src="https://raw.githubusercontent.com/Annette-F/Annette-F/refs/heads/main/icons/dbeaver.svg" width="40" height="40"> | <img src="https://raw.githubusercontent.com/Annette-F/Annette-F/refs/heads/main/icons/postgresql.svg" width="40" height="40"> | <img src="https://raw.githubusercontent.com/Annette-F/Annette-F/refs/heads/main/icons/microsoftsqlserver.svg" width="40" height="40"> |
+| GitHub | GitLab | Jenkins | Docker | Grafana | Kibana | Postman | Swagger | DBeaver | PostgreSQL | MSSQL |
+|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
+| <img src="https://raw.githubusercontent.com/Annette-F/Annette-F/refs/heads/main/icons/github.svg" width="40" height="40"> | <img src="https://raw.githubusercontent.com/Annette-F/Annette-F/refs/heads/main/icons/gitlab.svg" width="40" height="40"> | <img src="https://raw.githubusercontent.com/Annette-F/Annette-F/refs/heads/main/icons/jenkins.svg" width="40" height="40"> | <img src="https://raw.githubusercontent.com/Annette-F/Annette-F/refs/heads/main/icons/docker.svg" width="50" height="50"> | <img src="https://raw.githubusercontent.com/Annette-F/Annette-F/refs/heads/main/icons/grafana.svg" width="40" height="40"> | <img src="https://raw.githubusercontent.com/Annette-F/Annette-F/refs/heads/main/icons/kibana.svg" width="40" height="40"> | <img src="https://raw.githubusercontent.com/Annette-F/Annette-F/refs/heads/main/icons/postman.svg" height="40" width="40"> | <img src="https://raw.githubusercontent.com/Annette-F/Annette-F/refs/heads/main/icons/swagger.svg" height="40" width="40"> | <img src="https://raw.githubusercontent.com/Annette-F/Annette-F/refs/heads/main/icons/dbeaver.svg" width="40" height="40"> | <img src="https://raw.githubusercontent.com/Annette-F/Annette-F/refs/heads/main/icons/postgresql.svg" width="40" height="40"> | <img src="https://raw.githubusercontent.com/Annette-F/Annette-F/refs/heads/main/icons/microsoftsqlserver.svg" width="40" height="40"> |
 
 | MySQL | MongoDB | Browserstack | Android Studio | Appium |
 |:----:|:----:|:----:|:----:|:----:|
@@ -45,41 +45,7 @@
 | <img src="https://github.com/Annette-F/Annette-F/blob/main/icons/AllureReport.png" width="40" height="40"> | <img src="https://github.com/Annette-F/Annette-F/blob/main/icons/AllureTestOps.png" width="40" height="40"> | <img src="https://raw.githubusercontent.com/Annette-F/Annette-F/refs/heads/main/icons/jira.svg" width="40" height="40"> | <img src="https://raw.githubusercontent.com/Annette-F/Annette-F/refs/heads/main/icons/confluence.svg" height="40" width="40"> | <img src="https://raw.githubusercontent.com/Annette-F/Annette-F/refs/heads/main/icons/Testrail.svg" height="40" width="40"> | <img src="https://raw.githubusercontent.com/Annette-F/Annette-F/refs/heads/main/icons/YouTrack.svg" width="40" height="40"> |
 
 
-#### Languages
 
-<p align="left">
-<img src="https://raw.githubusercontent.com/Annette-F/Annette-F/main/icons/python.svg" width="50" heigth="50"/>
-</p>
-
-#### Operating systems
-
-<p align="left">
-<img src="https://raw.githubusercontent.com/Annette-F/Annette-F/main/icons/windows10.svg" width="50" heigth="50"/>
-<img src="https://raw.githubusercontent.com/Annette-F/Annette-F/main/icons/linux.svg" width="50" heigth="50"/>
-<img src="https://raw.githubusercontent.com/Annette-F/Annette-F/main/icons/mac-os.svg" width="50" heigth="50"/>
-</p>
-
-#### Test management systems
-
-<p align="left">
-<img src="https://raw.githubusercontent.com/Annette-F/Annette-F/main/icons/jira.svg" width="50" heigth="50"/>
-<img src="https://raw.githubusercontent.com/Annette-F/Annette-F/main/icons/confluence.svg" width="50" heigth="50"/>
-<img src="https://raw.githubusercontent.com/Annette-F/Annette-F/main/icons/YouTrack.svg" width="50" heigth="50"/>
-<img src="https://raw.githubusercontent.com/Annette-F/Annette-F/main/icons/Testrail.svg" width="50" heigth="50"/>
-</p>
-
-#### Database Management System
-
-<p align="left">
-<img src="https://raw.githubusercontent.com/Annette-F/Annette-F/main/icons/dbeaver.svg" width="50" heigth="50"/>
-<img src="https://raw.githubusercontent.com/Annette-F/Annette-F/main/icons/microsoftsqlserver.svg" width="50" heigth="50"/>
-<img src="https://raw.githubusercontent.com/Annette-F/Annette-F/main/icons/mongodb.svg" width="50" heigth="50"/>
-<img src="https://raw.githubusercontent.com/Annette-F/Annette-F/main/icons/mysql.svg" width="50" heigth="50"/>
-<img src="https://raw.githubusercontent.com/Annette-F/Annette-F/main/icons/postgresql.svg" width="50" heigth="50"/>
-</p>
-          
-
-### To be continued ... :wink:
 <!--
 **Annette-F/Annette-F** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
