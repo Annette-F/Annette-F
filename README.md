@@ -9,12 +9,10 @@
 
 ## Diploma projects at [QA.GURU](https://qa.guru/)
  
- 
   |      Project name            |                   GitHub links                                                     | 
   |----------------------------- |------------------------------------------------------------------------------------|
   |       UI / API tests         |[ UI / API tests](https://github.com/Annette-F/qa_guru_python_diplom_project_litres)|  
   |       Mobile tests           |[Mobile tests](https://github.com/Annette-F/qa_guru_python_diplom_mobile_project)   |  
-
 
 
 ## You can find me on 
@@ -24,6 +22,7 @@
 <a href="mailto:fedorova.annette@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/Annette-F/Annette-F/main/icons/gmail.svg" alt="Annette_f" height="50" width="50" /></a>
 <a href="https://www.linkedin.com/in/annette-fedorova/" target="blank"><img align="center" src="https://raw.githubusercontent.com/Annette-F/Annette-F/main/icons/linkedin.svg" alt="Annette_f" height="50" width="50" /></a>
 </p>
+
 
 ## Technology and stack
 
@@ -47,17 +46,15 @@
 |:----:|:----:|:----:|:----:|:----:|:----:|
 | <img src="https://github.com/Annette-F/Annette-F/blob/main/icons/AllureReport.png" width="40" height="40"> | <img src="https://github.com/Annette-F/Annette-F/blob/main/icons/AllureTestOps.png" width="40" height="40"> | <img src="https://raw.githubusercontent.com/Annette-F/Annette-F/refs/heads/main/icons/jira.svg" width="40" height="40"> | <img src="https://raw.githubusercontent.com/Annette-F/Annette-F/refs/heads/main/icons/confluence.svg" height="40" width="40"> | <img src="https://raw.githubusercontent.com/Annette-F/Annette-F/refs/heads/main/icons/Testrail.svg" height="40" width="40"> | <img src="https://raw.githubusercontent.com/Annette-F/Annette-F/refs/heads/main/icons/YouTrack.svg" width="40" height="40"> |
 
-## Statistics
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Annette-F&show_icons=true&theme=merko)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Annette-F&theme=merko)
+## Statistics
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Annette-Fo&theme=merko)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Annette-F&theme=merko)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Annette-F&theme=merko)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Annette-F&theme=merko)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Annette-F&theme=merko)
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
 
 <!--
 **Annette-F/Annette-F** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
