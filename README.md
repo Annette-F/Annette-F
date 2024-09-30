@@ -10,13 +10,12 @@
 ## Diploma projects at [QA.GURU](https://qa.guru/)
  
  
-  |      Project name            |                   GitHub links                                  | 
-  |----------------------------- |-----------------------------------------------------------------|
-  |       UI / API tests         |https://github.com/Annette-F/qa_guru_python_diplom_project_litres|  
-  |       Mobile tests           |https://github.com/Annette-F/qa_guru_python_diplom_mobile_project|  
+  |      Project name            |                   GitHub links                                                     | 
+  |----------------------------- |------------------------------------------------------------------------------------|
+  |       UI / API tests         |[ UI / API tests](https://github.com/Annette-F/qa_guru_python_diplom_project_litres)|  
+  |       Mobile tests           |[Mobile tests](https://github.com/Annette-F/qa_guru_python_diplom_mobile_project)   |  
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Annette-F&show_icons=true&theme=merko)
 
 ## You can find me on 
 
@@ -48,6 +47,8 @@
 |:----:|:----:|:----:|:----:|:----:|:----:|
 | <img src="https://github.com/Annette-F/Annette-F/blob/main/icons/AllureReport.png" width="40" height="40"> | <img src="https://github.com/Annette-F/Annette-F/blob/main/icons/AllureTestOps.png" width="40" height="40"> | <img src="https://raw.githubusercontent.com/Annette-F/Annette-F/refs/heads/main/icons/jira.svg" width="40" height="40"> | <img src="https://raw.githubusercontent.com/Annette-F/Annette-F/refs/heads/main/icons/confluence.svg" height="40" width="40"> | <img src="https://raw.githubusercontent.com/Annette-F/Annette-F/refs/heads/main/icons/Testrail.svg" height="40" width="40"> | <img src="https://raw.githubusercontent.com/Annette-F/Annette-F/refs/heads/main/icons/YouTrack.svg" width="40" height="40"> |
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Annette-F&show_icons=true&theme=merko)
 
 
 <!--
