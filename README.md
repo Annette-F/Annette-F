@@ -26,11 +26,11 @@
 <a href="https://www.linkedin.com/in/annette-fedorova/" target="blank"><img align="center" src="https://raw.githubusercontent.com/Annette-F/Annette-F/main/icons/linkedin.svg" alt="Annette_f" height="50" width="50" /></a>
 </p>
 
-## Technology and stak:
+## Technology and stack:
 
 | Python | Pytest | PyCharm | Selene | Selenoid |  | Hibernate | Spring |
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
-| <img src="https://raw.githubusercontent.com/Annette-F/Annette-F/refs/heads/main/icons/python.svg" width="40" height="40"> | <img src="https://raw.githubusercontent.com/Annette-F/Annette-F/refs/heads/main/icons/pytest.svg" width="40" height="40"> | <img src="https://raw.githubusercontent.com/Annette-F/Annette-F/refs/heads/main/icons/pycharm.svg" width="40" height="40"> | <img src="https://fs.getcourse.ru/fileservice/file/download/a/159627/sc/382/h/f4f3f1f3a43fb276900d2cc5fe3de5cc.svg" width="50" height="50"> | <img src="https://fs.getcourse.ru/fileservice/file/download/a/159627/sc/158/h/7fd3903fa44e028850d9346df2898baa.png" width="40" height="20"> | <img src="https://fs.getcourse.ru/fileservice/file/download/a/159627/sc/164/h/7d90ad874f0bef32137070f887b7e7c9.svg" width="50" height="50"> | <img src="https://hibernate.org/images/hibernate-logo.svg" width="85" height="85"> | <img src="https://fs.getcourse.ru/fileservice/file/download/a/159627/sc/217/h/1d42c2e1ad9b2100f363d0167a9a4cfd.svg" width="30" height="30"> |
+| <img src="https://raw.githubusercontent.com/Annette-F/Annette-F/refs/heads/main/icons/python.svg" width="40" height="40"> | <img src="https://raw.githubusercontent.com/Annette-F/Annette-F/refs/heads/main/icons/pytest.svg" width="40" height="40"> | <img src="https://raw.githubusercontent.com/Annette-F/Annette-F/refs/heads/main/icons/pycharm.svg" width="40" height="40"> | <img src="https://github.com/Annette-F/Annette-F/blob/main/icons/selene.png" height="40" width="40"> | <img src="https://github.com/Annette-F/Annette-F/blob/main/icons/Selenoid.png" height="40" width="40"> | <img src="https://fs.getcourse.ru/fileservice/file/download/a/159627/sc/164/h/7d90ad874f0bef32137070f887b7e7c9.svg" width="50" height="50"> | <img src="https://hibernate.org/images/hibernate-logo.svg" width="85" height="85"> | <img src="https://fs.getcourse.ru/fileservice/file/download/a/159627/sc/217/h/1d42c2e1ad9b2100f363d0167a9a4cfd.svg" width="30" height="30"> |
 
 #### Languages
 
