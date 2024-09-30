@@ -52,6 +52,12 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Annette-F&show_icons=true&theme=merko)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Annette-F&theme=merko)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Annette-Fo&theme=merko)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Annette-F&theme=merko)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Annette-F&theme=merko)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Annette-F&theme=merko)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Annette-F&theme=merko)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <!--
 **Annette-F/Annette-F** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
