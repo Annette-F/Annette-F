@@ -14,10 +14,10 @@
  
  
  
-  |      Project name               |                   GitHub links                                   
-  |-------------------------------- |-------------------------------------------------------|
-  |         UI / API tests          ||  
-  |       Mobile tests              ||  
+  |      Project name            |                   GitHub links                                  | 
+  |----------------------------- |-----------------------------------------------------------------|
+  |       UI / API tests         |https://github.com/Annette-F/qa_guru_python_diplom_project_litres|  
+  |       Mobile tests           |https://github.com/Annette-F/qa_guru_python_diplom_mobile_project|  
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Annette-F&show_icons=true&theme=merko)
