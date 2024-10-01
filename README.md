@@ -3,7 +3,7 @@
 
 - I'm currently working as a QA Engineer at [SimbirSoft](https://www.simbirsoft.com/)
 - During this time I have different projects, such as: mobile, web
-- I have ISTQB certificate foundation level
+- I have ISTQB certificate foundation level [Certificate](https://drive.google.com/file/d/1YFhrrCeiHRVSfTVEu-AJMtIZr-x59m6g/view?usp=sharing)
 - At the moment I'm studying on test automation in Python. Here you can observe the process of my development in automation 🙂
 
 
@@ -11,8 +11,8 @@
  
   |      Project name            |                   GitHub links                                                     | 
   |----------------------------- |------------------------------------------------------------------------------------|
-  |       UI / API tests         |[ UI / API tests](https://github.com/Annette-F/qa_guru_python_diplom_project_litres)|  
-  |       Mobile tests           |[Mobile tests](https://github.com/Annette-F/qa_guru_python_diplom_mobile_project)   |  
+  |       UI / API tests Litres  |[ UI / API tests](https://github.com/Annette-F/qa_guru_python_diplom_project_litres)|  
+  |       Mobile tests Citilink  |[Mobile tests](https://github.com/Annette-F/qa_guru_python_diplom_mobile_project)   |  
 
 
 ## You can find me on 
