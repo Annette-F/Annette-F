@@ -24,7 +24,7 @@
 </p>
 
 
-## Technology and stack
+## Technologies and stack
 
 | Python | Pytest | PyCharm | Selene | Selenoid |
 |:----:|:----:|:----:|:----:|:----:|
