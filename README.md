@@ -3,7 +3,7 @@
 
 - I'm currently working as a QA Engineer at [SimbirSoft](https://www.simbirsoft.com/)
 - During this time I have different projects, such as: mobile, web
-- I have ISTQB certificate foundation level [Certificate](https://drive.google.com/file/d/1YFhrrCeiHRVSfTVEu-AJMtIZr-x59m6g/view?usp=sharing)
+- I have [ISTQB certificate foundation level](https://www.gasq.org/en/registration/expert/b5a556a2-13ca-44e2-9bee-1c2e49689077.html) [PDF Certificate](https://drive.google.com/file/d/1YFhrrCeiHRVSfTVEu-AJMtIZr-x59m6g/view?usp=sharing)
 - At the moment I'm studying on test automation in Python. Here you can observe the process of my development in automation 🙂
 
 
