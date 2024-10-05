@@ -24,7 +24,7 @@
 </p>
 
 
-## Technologies and stack
+## Some tools I have used and learned
 
 | Python | Pytest | PyCharm | Selene | Selenoid |
 |:----:|:----:|:----:|:----:|:----:|
