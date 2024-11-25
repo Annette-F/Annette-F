@@ -1,4 +1,4 @@
-<h1 align="center">Welcome and hi there! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>  I'm Anna </h1> 
+<h1 align="center">Hi, and welcome there! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>  I'm Anna </h1> 
 <h3 align="center">I'm QA Engineer with 3+ hands-on experience</h3>
 
 - I'm currently working as a QA Engineer at [SimbirSoft](https://www.simbirsoft.com/)
