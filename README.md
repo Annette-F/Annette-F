@@ -38,10 +38,10 @@
 | <img src="https://github.com/Annette-F/Annette-F/blob/main/icons/AllureReport.png" width="40" height="40"> | <img src="https://github.com/Annette-F/Annette-F/blob/main/icons/AllureTestOps.png" width="40" height="40"> | <img src="https://raw.githubusercontent.com/Annette-F/Annette-F/refs/heads/main/icons/jira.svg" width="40" height="40"> | <img src="https://raw.githubusercontent.com/Annette-F/Annette-F/refs/heads/main/icons/confluence.svg" height="40" width="40"> | <img src="https://raw.githubusercontent.com/Annette-F/Annette-F/refs/heads/main/icons/Testrail.svg" height="40" width="40"> | <img src="https://raw.githubusercontent.com/Annette-F/Annette-F/refs/heads/main/icons/YouTrack.svg" width="40" height="40"> |
 
 ## :desert_island: When I'm not testing or programming you can find me:
-:running_woman: Running on the street \n
-:books: Reading something interesting 
-:walking_woman: Having enjoy for a walk 
-:framed_picture: For visiting to a museum
+:running_woman: Running on the street  
+:books: Reading something interesting  
+:walking_woman: Having enjoy for a walk  
+:framed_picture: For visiting to a museum  
 
 ## You can find me on 
 
