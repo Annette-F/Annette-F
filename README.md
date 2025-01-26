@@ -37,6 +37,13 @@
 |:----:|:----:|:----:|:----:|:----:|:----:|
 | <img src="https://github.com/Annette-F/Annette-F/blob/main/icons/AllureReport.png" width="40" height="40"> | <img src="https://github.com/Annette-F/Annette-F/blob/main/icons/AllureTestOps.png" width="40" height="40"> | <img src="https://raw.githubusercontent.com/Annette-F/Annette-F/refs/heads/main/icons/jira.svg" width="40" height="40"> | <img src="https://raw.githubusercontent.com/Annette-F/Annette-F/refs/heads/main/icons/confluence.svg" height="40" width="40"> | <img src="https://raw.githubusercontent.com/Annette-F/Annette-F/refs/heads/main/icons/Testrail.svg" height="40" width="40"> | <img src="https://raw.githubusercontent.com/Annette-F/Annette-F/refs/heads/main/icons/YouTrack.svg" width="40" height="40"> |
 
+## You can find me on 
+<p align="left">
+<a href="https://t.me/Annette_f" target="blank"><img align="center" src="https://raw.githubusercontent.com/Annette-F/Annette-F/main/icons/Telegram.svg" alt="Annette_f" height="40" width="40" /></a>
+<a href="mailto:fedorova.annette@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/Annette-F/Annette-F/main/icons/gmail.svg" alt="Annette_f" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/annette-fedorova/" target="blank"><img align="center" src="https://raw.githubusercontent.com/Annette-F/Annette-F/main/icons/linkedin.svg" alt="Annette_f" height="40" width="40" /></a>
+</p>
+
 ## Statistics
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Annette-F&theme=merko)
