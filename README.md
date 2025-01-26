@@ -4,7 +4,7 @@
 - I'm currently working as a QA Engineer at [SimbirSoft](https://www.simbirsoft.com/)
 - During this time I have different projects, such as: mobile, web
 - I have [ISTQB certificate foundation level](https://www.gasq.org/en/registration/expert/b5a556a2-13ca-44e2-9bee-1c2e49689077.html) - [PDF Certificate](https://drive.google.com/file/d/1YFhrrCeiHRVSfTVEu-AJMtIZr-x59m6g/view?usp=sharing)
-- At the moment I'm studying on test automation in Python. Here you can observe the process of my development in automation and wish me Good luck! 🙂
+- Know about my experience - you can request me for CV by email/telegram
 
 
 ## Diploma projects at [QA.GURU](https://qa.guru/)
@@ -23,6 +23,7 @@
 <a href="https://www.linkedin.com/in/annette-fedorova/" target="blank"><img align="center" src="https://raw.githubusercontent.com/Annette-F/Annette-F/main/icons/linkedin.svg" alt="Annette_f" height="40" width="40" /></a>
 </p>
 
+Thank you for your attention 
 
 ## Some tools I have used and learned
 
