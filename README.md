@@ -51,6 +51,7 @@
 <a href="https://www.linkedin.com/in/annette-fedorova/" target="blank"><img align="center" src="https://raw.githubusercontent.com/Annette-F/Annette-F/main/icons/linkedin.svg" alt="Annette_f" height="40" width="40" /></a>
 </p>
 
+
 *Thank you for your attention*
 
 ## Statistics
