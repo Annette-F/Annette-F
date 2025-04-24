@@ -18,11 +18,11 @@
 ## Some tools I have used and learned
 
 | Python | Pytest | PyCharm | Selene | Selenoid | Selenium | Playwright |
-|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
+|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
 | <img src="https://raw.githubusercontent.com/Annette-F/Annette-F/refs/heads/main/icons/python.svg" width="40" height="40"> | <img src="https://raw.githubusercontent.com/Annette-F/Annette-F/refs/heads/main/icons/pytest.svg" width="50" height="50"> | <img src="https://raw.githubusercontent.com/Annette-F/Annette-F/refs/heads/main/icons/pycharm.svg" width="40" height="40"> | <img src="https://github.com/Annette-F/Annette-F/blob/main/icons/selene.png" height="50" width="50"> | <img src="https://github.com/Annette-F/Annette-F/blob/main/icons/Selenoid.png" height="40" width="40"> | <img src="https://github.com/Annette-F/Annette-F/blob/main/icons/Selenium.png" height="40" width="40"> | <img src="https://raw.githubusercontent.com/Annette-F/Annette-F/refs/heads/main/icons/playwright-original.svg" height="50" width="50"> |
 
 | GitHub | GitLab | Git | Jenkins | Docker | Grafana | Kibana | Postman | Swagger |
-|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
+|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
 | <img src="https://raw.githubusercontent.com/Annette-F/Annette-F/refs/heads/main/icons/github.svg" width="40" height="40"> | <img src="https://raw.githubusercontent.com/Annette-F/Annette-F/refs/heads/main/icons/gitlab.svg" width="40" height="40"> | <img src="https://raw.githubusercontent.com/Annette-F/Annette-F/refs/heads/main/icons/git.svg" width="40" height="40"> | <img src="https://raw.githubusercontent.com/Annette-F/Annette-F/refs/heads/main/icons/jenkins.svg" width="40" height="40"> | <img src="https://raw.githubusercontent.com/Annette-F/Annette-F/refs/heads/main/icons/docker.svg" width="50" height="50"> | <img src="https://raw.githubusercontent.com/Annette-F/Annette-F/refs/heads/main/icons/grafana.svg" width="40" height="40"> | <img src="https://raw.githubusercontent.com/Annette-F/Annette-F/refs/heads/main/icons/kibana.svg" width="40" height="40"> | <img src="https://raw.githubusercontent.com/Annette-F/Annette-F/refs/heads/main/icons/postman.svg" height="40" width="40"> | <img src="https://raw.githubusercontent.com/Annette-F/Annette-F/refs/heads/main/icons/swagger.svg" height="40" width="40"> |
 
 | DBeaver | PostgreSQL | MSSQL | MySQL | MongoDB |
