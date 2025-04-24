@@ -1,8 +1,8 @@
 <h1 align="center">Hi, and welcome there! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>  I'm Anna </h1> 
-<h3 align="center">I'm QA Engineer with 3+ hands-on experience</h3>
+<h3 align="center">I'm Fullstack QA Engineer with 3+ hands-on experience</h3>
 
-- I'm currently working as a QA Engineer at [SimbirSoft](https://www.simbirsoft.com/)
-- During this time I have different projects, such as: mobile, web
+- I'm currently working as a Fullstack QA Engineer at [SimbirSoft](https://www.simbirsoft.com/)
+- I worked on different projects, such as: mobile, web (security, enterprise, technology, multimedia)
 - I have [ISTQB certificate foundation level](https://www.gasq.org/en/registration/expert/b5a556a2-13ca-44e2-9bee-1c2e49689077.html) - [PDF Certificate](https://drive.google.com/file/d/1YFhrrCeiHRVSfTVEu-AJMtIZr-x59m6g/view?usp=sharing)
 - Know about my experience - you can request me for CV by email/telegram
 
